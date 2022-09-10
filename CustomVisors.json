@@ -270,6 +270,21 @@
             "name": "これこそ無表情",
             "author": "やちゃじゃくや",
             "resource": "Poyapoya.png"
-        }
+        },
+        {
+            "name": "Smile",
+            "author": "やちゃじゃくや",
+            "resource": "SmileSmile.png"
+        },
+        {
+            "name": "範囲選択",
+            "author": "やちゃじゃくや",
+            "resource": "Rangeselection.png"
+        },
+        {
+            "name": "バレバレな口",
+            "author": "やちゃじゃくや",
+            "resource": "ImpMouth.png"
+        },
     ]
 }
