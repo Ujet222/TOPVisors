@@ -286,5 +286,30 @@
             "author": "やちゃじゃくや",
             "resource": "ImpMouth.png"
         },
+        {
+            "name": "へこみ",
+            "author": "やちゃじゃくや",
+            "resource": "hekomi.png"
+        },
+        {
+            "name": "泣き顔",
+            "author": "やちゃじゃくや",
+            "resource": "nakit-t.png"
+        },
+        {
+            "name": "一つ目",
+            "author": "やちゃじゃくや",
+            "resource": "OneEye.png"
+        },
+        {
+            "name": "諦め",
+            "author": "やちゃじゃくや",
+            "resource": "owata.png"
+        },
+        {
+            "name": "ポカーン",
+            "author": "やちゃじゃくや",
+            "resource": "pokan.png"
+        }
     ]
 }
