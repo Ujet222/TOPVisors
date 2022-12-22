@@ -310,6 +310,31 @@
             "name": "ポカーン",
             "author": "やちゃじゃくや",
             "resource": "pokan.png"
+        },
+        {
+            "name": "のれん",
+            "author": "やちゃじゃくや",
+            "resource": "RamenNoren.png"
+        },
+        {
+            "name": "驚かし",
+            "author": "やちゃじゃくや",
+            "resource": "BooFace.png"
+        },
+        {
+            "name": "ぐるぐる",
+            "author": "やちゃじゃくや",
+            "resource": "Guruguru.png"
+        },
+        {
+            "name": "嫌がり",
+            "author": "やちゃじゃくや",
+            "resource": "Iyagari.png"
+        },
+        {
+            "name": "ウィンク",
+            "author": "やちゃじゃくや",
+            "resource": "WinkFace.png"
         }
     ]
 }
