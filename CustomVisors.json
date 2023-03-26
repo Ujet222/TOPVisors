@@ -335,6 +335,31 @@
             "name": "ウィンク",
             "author": "やちゃじゃくや",
             "resource": "WinkFace.png"
+        },
+        {
+            "name":"通信状況",
+            "author":"やちゃじゃくや",
+            "resource":"Wi-Fi.png"
+        },
+        {
+            "name":"ぽけぇ",
+            "author":"やちゃじゃくや",
+            "resource":"Poke-.png"
+        },
+        {
+            "name":"ぺろん",
+            "author":"やちゃじゃくや",
+            "resource":"Peron.png"
+        },
+        {
+            "name":"キラリ",
+            "author":"やちゃじゃくや",
+            "resource":"Kirari.png"
+        },
+        {
+            "name":"休憩時間",
+            "author":"やちゃじゃくや",
+            "resource":"BreakTime.png"
         }
     ]
 }
