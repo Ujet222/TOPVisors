@@ -360,6 +360,56 @@
             "name":"休憩時間",
             "author":"やちゃじゃくや",
             "resource":"BreakTime.png"
+        },
+        {
+            "name":"MusicTime",
+            "author":"やちゃじゃくや",
+            "resource":"YJ_Music.png"
+        },
+        {
+            "name":"あのサングラス?",
+            "author":"やちゃじゃくや",
+            "resource":"Blue_SG.png"
+        },
+        {
+            "name":"あのヘアピン",
+            "author":"やちゃじゃくや",
+            "resource":"Hair_PIN.png"
+        },
+        {
+            "name":"Triple Kill Pink",
+            "author":"やちゃじゃくや",
+            "resource":"TK_P1.png"
+        },
+        {
+            "name":"Triple Kill Gray",
+            "author":"やちゃじゃくや",
+            "resource":"TK_P2.png"
+        },
+        {
+            "name":"Triple Kill Maroon",
+            "author":"やちゃじゃくや",
+            "resource":"TK_P3.png"
+        },
+        {
+            "name":"ピンク玉っぽい笑顔",
+            "author":"やちゃじゃくや",
+            "resource":"KB_smile.png"
+        },
+        {
+            "name":"ピンク玉っぽい寝顔",
+            "author":"やちゃじゃくや",
+            "resource":"KB_sleep.png"
+        },
+        {
+            "name":"ピンク玉っぽいウィンク",
+            "author":"やちゃじゃくや",
+            "resource":"KB_wink.png"
+        },
+        {
+            "name":"ピンク玉っぽい悲しい顔",
+            "author":"やちゃじゃくや",
+            "resource":"KB_sad.png"
         }
     ]
 }
