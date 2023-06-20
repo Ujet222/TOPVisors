@@ -410,6 +410,31 @@
             "name":"ピンク玉っぽい悲しい顔",
             "author":"やちゃじゃくや",
             "resource":"KB_sad.png"
+        },
+        {
+            "name":"くらくら",
+            "author":"やちゃじゃくや",
+            "resource":"9kururin.png"
+        },
+        {
+            "name":"応急処置",
+            "author":"やちゃじゃくや",
+            "resource":"Bandband.png"
+        },
+        {
+            "name":"りぼん",
+            "author":"やちゃじゃくや",
+            "resource":"Ribonbonbon.png"
+        },
+        {
+            "name":"SstTAarR",
+            "author":"やちゃじゃくや",
+            "resource":"SstTAarR.png"
+        },
+        {
+            "name":"トンデモな予感",
+            "author":"やちゃじゃくや",
+            "resource":"Tondemo.png"
         }
     ]
 }
