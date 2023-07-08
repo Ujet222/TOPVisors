@@ -3,287 +3,344 @@
         {
             "name": "涙目",
             "author": "tugaru",
+            "package": "TOP_CosV",
             "resource": "tearyeye.png"
         },
         {
             "name": "すごく痛い",
             "author": "tugaru",
+            "package": "TOP_CosV",
             "resource": "axe.png"
         },
         {
             "name": "めっちゃ痛い",
             "author": "tugaru",
+            "package": "TOP_CosV",
             "resource": "knife.png"
         },
         {
             "name": "いんぽすたぁ",
             "author": "tugaru",
+            "package": "TOP_CosV",
             "resource": "imposter.png"
         },
         {
             "name": "一目惚れ",
             "author": "tugaru",
+            "package": "TOP_CosV",
             "resource": "Love.png"
         },
         {
             "name": "アホ面",
             "author": "tugaru",
+            "package": "TOP_CosV",
             "resource": "sillyeye.png"
         },
         {
             "name": "顔...洗ってる?",
             "author": "tugaru",
+            "package": "TOP_CosV",
             "resource": "spiderweb.png"
         },
         {
             "name": "太陽が眩しい",
             "author": "tugaru",
+            "package": "TOP_CosV",
             "resource": "sunglasses.png"
         },
         {
             "name": "タバコは喫煙所で",
             "author": "tugaru",
+            "package": "TOP_CosV",
             "resource": "tobacco.png"
         },
         {
             "name": "猫のひげ",
             "author": "tugaru",
+            "package": "TOP_CosV",
             "resource": "catwhisker.png"
         },
         {
             "name": "犬のマネ!!",
             "author": "tugaru",
+            "package": "TOP_CosV",
             "resource": "bone.png"
         },
         {
             "name": "犬に乗っ取られた",
             "author": "tugaru",
+            "package": "TOP_CosV",
             "resource": "dog.png"
         },
         {
             "name": "アニ目みたい",
             "author": "tugaru",
+            "package": "TOP_CosV",
             "resource": "bigeye.png"
         },
         {
             "name": "SHINE",
             "author": "tugaru",
+            "package": "TOP_CosV",
             "resource": "shine.png"
         },
         {
             "name": "暗い道でも安心!!",
             "author": "tugaru",
+            "package": "TOP_CosV",
             "resource": "ray.png"
         },
         {
             "name": "目から銃",
             "author": "tugaru",
+            "package": "TOP_CosV",
             "resource": "eyeandgun.png"
         },
         {
             "name": "ふきだし",
             "author": "tugaru",
+            "package": "TOP_CosV",
             "resource": "balloon.png"
         },
         {
             "name": "寒気を感じる",
             "author": "tugaru",
+            "package": "TOP_CosV",
             "resource": "blueflame.png"
         },
         {
             "name": "ぼーん",
             "author": "tugaru",
+            "package": "TOP_CosV",
             "resource": "BOMB.png"
         },
         {
             "name": "雲に乗れた",
             "author": "tugaru",
+            "package": "TOP_CosV",
             "resource": "cloud.png"
         },
         {
             "name": "犬と一緒",
             "author": "tugaru",
+            "package": "TOP_CosV",
             "resource": "dogbox.png",
             "flipresource": "dogbox_flip.png"
         },
         {
             "name": "キーホルダー",
             "author": "tugaru",
+            "package": "TOP_CosV",
             "resource": "keyring.png"
         },
         {
             "name": "ネギ",
             "author": "tugaru",
+            "package": "TOP_CosV",
             "resource": "negi.png"
         },
         {
             "name": "いざ大海原へ",
             "author": "tugaru",
+            "package": "TOP_CosV",
             "resource": "SailBoat.png"
         },
         {
             "name": "にやぁ",
             "author": "tugaru",
+            "package": "TOP_CosV",
             "resource": "smileface.png"
         },
         {
             "name": "ぶえっくしょいッ!!",
             "author": "tugaru",
+            "package": "TOP_CosV",
             "resource": "towel.png"
         },
         {
             "name": "2進数の動作",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "01001001.png"
         },
         {
             "name": "最初に必殺技を出せ",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "BlueEye.png"
         },
         {
             "name": "何も考えてない",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "Dari.png"
         },
         {
             "name": "ディールメイカー",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "DealMaker.png"
         },
         {
             "name": "Determination",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "Determination.png"
         },
         {
             "name": "HP",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "HP.png"
         },
         {
             "name": "怒ってしまう",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "Ikari.png"
         },
         {
             "name": "R18",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "R18.png"
         },
         {
             "name": "タスクRTA走者",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "RTA.png"
         },
         {
             "name": "白桜の花",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "Sakura.png"
         },
         {
             "name": "ジト目",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "jitome.png"
         },
         {
             "name": "眠ってしまう",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "Nemuri.png"
         },
         {
             "name": "にゅん",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "Nyun.png"
         },
         {
             "name": "しょぼん",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "Syobon.png"
         },
         {
             "name": "テンションMAX",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "tentionmax.png"
         },
         {
             "name": "OKしよう",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "ok.png"
         },
         {
             "name": "NOと言わなければ",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "no.png"
         },
         {
             "name": "誕生日おめでとう",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "HappyBirthdayToME.png"
         },
         {
             "name": "黒目線",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "BlackMesen.png"
         },
         {
             "name": "よく見かけそうなもの",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "tabako.png"
         },
         {
             "name": "骨が刺さった",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "BoneEye.png"
         },
         {
             "name": "キメ顔",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "Kime.png"
         },
         {
             "name": "疑い",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "utagaimayu.png"
         },
         {
             "name": "ビッグアイ",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "YJBigEye.png"
         },
         {
             "name": "噛むぞ",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "Bite.png"
         },
         {
             "name": "口角無限大",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "KoukakuInf.png"
         },
         {
             "name": "中からこんにちは",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "Nyoki.png"
         },
         {
             "name": "これこそ無表情",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "Poyapoya.png"
         },
         {
             "name": "Smile",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "SmileSmile.png"
         },
         {
             "name": "範囲選択",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "Rangeselection.png"
         },
         {
             "name": "バレバレな口",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "ImpMouth.png"
         },
         {
@@ -294,146 +351,175 @@
         {
             "name": "泣き顔",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "nakit-t.png"
         },
         {
             "name": "一つ目",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "OneEye.png"
         },
         {
             "name": "諦め",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "owata.png"
         },
         {
             "name": "ポカーン",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "pokan.png"
         },
         {
             "name": "のれん",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "RamenNoren.png"
         },
         {
             "name": "驚かし",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "BooFace.png"
         },
         {
             "name": "ぐるぐる",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "Guruguru.png"
         },
         {
             "name": "嫌がり",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "Iyagari.png"
         },
         {
             "name": "ウィンク",
             "author": "やちゃじゃくや",
+            "package": "YJCosV",
             "resource": "WinkFace.png"
         },
         {
             "name":"通信状況",
             "author":"やちゃじゃくや",
+            "package": "YJCosV",
             "resource":"Wi-Fi.png"
         },
         {
             "name":"ぽけぇ",
             "author":"やちゃじゃくや",
+            "package": "YJCosV",
             "resource":"Poke-.png"
         },
         {
             "name":"ぺろん",
             "author":"やちゃじゃくや",
+            "package": "YJCosV",
             "resource":"Peron.png"
         },
         {
             "name":"キラリ",
             "author":"やちゃじゃくや",
+            "package": "YJCosV",
             "resource":"Kirari.png"
         },
         {
             "name":"休憩時間",
             "author":"やちゃじゃくや",
+            "package": "YJCosV",
             "resource":"BreakTime.png"
         },
         {
             "name":"MusicTime",
             "author":"やちゃじゃくや",
+            "package": "YJCosV",
             "resource":"YJ_Music.png"
         },
         {
             "name":"あのサングラス?",
             "author":"やちゃじゃくや",
+            "package": "YJCosV",
             "resource":"Blue_SG.png"
         },
         {
             "name":"あのヘアピン",
             "author":"やちゃじゃくや",
+            "package": "YJCosV",
             "resource":"Hair_PIN.png"
         },
         {
             "name":"Triple Kill Pink",
             "author":"やちゃじゃくや",
+            "package": "YJCosV",
             "resource":"TK_P1.png"
         },
         {
             "name":"Triple Kill Gray",
             "author":"やちゃじゃくや",
+            "package": "YJCosV",
             "resource":"TK_P2.png"
         },
         {
             "name":"Triple Kill Maroon",
             "author":"やちゃじゃくや",
+            "package": "YJCosV",
             "resource":"TK_P3.png"
         },
         {
             "name":"ピンク玉っぽい笑顔",
             "author":"やちゃじゃくや",
+            "package": "YJCosV",
             "resource":"KB_smile.png"
         },
         {
             "name":"ピンク玉っぽい寝顔",
             "author":"やちゃじゃくや",
+            "package": "YJCosV",
             "resource":"KB_sleep.png"
         },
         {
             "name":"ピンク玉っぽいウィンク",
             "author":"やちゃじゃくや",
+            "package": "YJCosV",
             "resource":"KB_wink.png"
         },
         {
             "name":"ピンク玉っぽい悲しい顔",
             "author":"やちゃじゃくや",
+            "package": "YJCosV",
             "resource":"KB_sad.png"
         },
         {
             "name":"くらくら",
             "author":"やちゃじゃくや",
+            "package": "YJCosV",
             "resource":"9kururin.png"
         },
         {
             "name":"応急処置",
             "author":"やちゃじゃくや",
+            "package": "YJCosV",
             "resource":"Bandband.png"
         },
         {
             "name":"りぼん",
             "author":"やちゃじゃくや",
+            "package": "YJCosV",
             "resource":"Ribonbonbon.png"
         },
         {
             "name":"SstTAarR",
             "author":"やちゃじゃくや",
+            "package": "YJCosV",
             "resource":"SstTAarR.png"
         },
         {
             "name":"トンデモな予感",
             "author":"やちゃじゃくや",
+            "package": "YJCosV",
             "resource":"Tondemo.png"
         }
     ]
