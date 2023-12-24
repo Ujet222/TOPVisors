@@ -521,6 +521,23 @@
             "author":"やちゃじゃくや",
             "package": "YJCosV",
             "resource":"Tondemo.png"
+        },
+	{
+            "name":"んにゃあ～",
+            "author":"やちゃじゃくや",
+            "package": "YJCosV",
+            "resource":"NyangNyang.png"
+        }
+	{
+            "name":"ねこふぇいす",
+            "package": "YJCosV",
+            "resource":"NyangFace.png"
+        },
+	{
+            "name":"フラワーグラス",
+            "author":"やちゃじゃくや",
+            "package": "YJCosV",
+            "resource":"GrassFlower.png"
         }
     ]
 }
