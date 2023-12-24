@@ -527,9 +527,10 @@
             "author":"やちゃじゃくや",
             "package": "YJCosV",
             "resource":"NyangNyang.png"
-        }
+        },
 	{
             "name":"ねこふぇいす",
+            "author":"やちゃじゃくや",
             "package": "YJCosV",
             "resource":"NyangFace.png"
         },
